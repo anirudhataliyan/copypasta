@@ -1,5 +1,5 @@
 import java.util.*;
-
+j@SmG2L!O!9cn0e36ZSboJCDSP@
 public class Main {
     public static boolean isPrime(int number) {
         if (number <= 1) {
